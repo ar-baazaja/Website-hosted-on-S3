@@ -9,13 +9,13 @@ Hosted on AWS S3:
 
 ## 📁 Project Structure
 
-![S3 Bucket](assets/web.PNG)
+![S3 Bucket](web.PNG)
 
 ### ✅ S3 Object Details
-![S3 Object](assets/web2.PNG)
+![S3 Object](web2.PNG)
 
 ### ✅ Final Website UI
-![Website UI](assets/web3.PNG)
+![Website UI](web3.PNG)
 
 ## 🚀 Features
 
